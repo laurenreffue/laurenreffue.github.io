@@ -7,4 +7,5 @@ Welcome to see my [Linkedin page](https://www.[linkedin].com/in/laurenreffue/).
 ![This infographic contains information](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Beige%20and%20Cream%20Clean%20Minimal%20Monthly%20Budget%20Pie%20Chart%20(1).png?raw=true)
 [Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) it explains where everyone is from that ettends Lehigh.
 ## Lehigh University Endowment: 2024 Fiscal Year Target Asset Allocation
-![This infographic contains information] 
+![This infographic contains information](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Green%20&%20White%20Modern%20Pie%20Chart%20Graph.jpg?raw=true)
+
