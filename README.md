@@ -8,4 +8,4 @@ Welcome to see my [Linkedin page](https://www.[linkedin].com/in/laurenreffue/).
 [Data](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf) it explains where everyone is from that ettends Lehigh.
 ## Lehigh University Endowment: 2024 Fiscal Year Target Asset Allocation
 ![This infographic contains information](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Green%20&%20White%20Modern%20Pie%20Chart%20Graph.jpg?raw=true)
-[Data is from Lehigh Univeristy Endowment Report 2023-2024](https://flippingbook.lehigh.edu/ENDOWMENT-REPORT-2023-2024/10/#zoom=true)
+This pie chart shows the distribution of Lehigh University's endowment funds for the 2024 fiscal year. It shows the percentage of the endowment funds allocated across the different portfolios including, Public equity, Private Equity, Absolute Return, Treasuries and Cash, and real estate. [Data is from Lehigh Univeristy Endowment Report 2023-2024](https://flippingbook.lehigh.edu/ENDOWMENT-REPORT-2023-2024/10/#zoom=true).
