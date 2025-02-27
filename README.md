@@ -9,3 +9,5 @@ Welcome to see my [Linkedin page](https://www.[linkedin].com/in/laurenreffue/).
 ## Lehigh University Endowment: 2024 Fiscal Year Target Asset Allocation
 ![This infographic contains information](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Green%20&%20White%20Modern%20Pie%20Chart%20Graph.jpg?raw=true)
 This pie chart shows the distribution of Lehigh University's endowment funds for the 2024 fiscal year. It shows the percentage of the endowment funds allocated across the different portfolios including, Public equity, Private Equity, Absolute Return, Treasuries and Cash, and Real Estate. [Data is from Lehigh Univeristy Endowment Report 2023-2024](https://flippingbook.lehigh.edu/ENDOWMENT-REPORT-2023-2024/10/#zoom=true).
+## Lehigh Vs. Lafayette Football 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kYd2ksZIF4a5F8gCfzZB9sRrpUOje3vvva4QEmnNSQA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
