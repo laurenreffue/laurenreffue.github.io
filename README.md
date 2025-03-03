@@ -15,4 +15,5 @@ This pie chart shows the distribution of Lehigh University's endowment funds for
 
 <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kYd2ksZIF4a5F8gCfzZB9sRrpUOje3vvva4QEmnNSQA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>"
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Y1jwxlGP4Wh3zJXpfKbvYjX6anscUcz1i1ViA7QqXVg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Y1jwxlGP4Wh3zJXpfKbvYjX6anscUcz1i1ViA7QqXVg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>"
