@@ -21,3 +21,5 @@ This pie chart shows the distribution of Lehigh University's endowment funds for
 
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)
+
+![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true)
