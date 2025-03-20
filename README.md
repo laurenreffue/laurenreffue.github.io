@@ -17,7 +17,7 @@ This pie chart shows the distribution of Lehigh University's endowment funds for
 
 ## Boston Teaparty Timeline
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Y1jwxlGP4Wh3zJXpfKbvYjX6anscUcz1i1ViA7QqXVg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQDdooTAkzaGnLM2GU15Du3zt9UeLffX9ZMDxFRMi17K2_XuMEMV-CVac_-PAqZCdJZ10_GYaStJgX6&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)
