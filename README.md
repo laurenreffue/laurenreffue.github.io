@@ -12,6 +12,7 @@ Welcome to see my [Linkedin page](https://www.[linkedin].com/in/laurenreffue/).
 This pie chart shows the distribution of Lehigh University's endowment funds for the 2024 fiscal year. It shows the percentage of the endowment funds allocated across the different portfolios including, Public equity, Private Equity, Absolute Return, Treasuries and Cash, and Real Estate. [Data is from Lehigh Univeristy Endowment Report 2023-2024](https://flippingbook.lehigh.edu/ENDOWMENT-REPORT-2023-2024/10/#zoom=true).
 
 ## Lehigh Vs. Lafayette Football 
+This timeline explains the history of the Lehigh Lafayette Rivalry starting from 1884 all the way to 2020.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vTrU_Yog6IEu_ogOrW4hPnLc1qcCqF-Vx09txbJBjAxF4bVYXP0dmmo1mcVAX6vEmB9kghQjGMsYQWW&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
