@@ -21,13 +21,17 @@ This timeline explains the history of the Lehigh Lafayette Rivalry starting from
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vTrU_Yog6IEu_ogOrW4hPnLc1qcCqF-Vx09txbJBjAxF4bVYXP0dmmo1mcVAX6vEmB9kghQjGMsYQWW&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Boston Teaparty Timeline
+This timeline goes through the events leading up to the Boston Teaparty and after the Boston Teaparty. The events begin in 1773 and end in 1775. The timeline highlights the history leading up to the teaparty, acts that Britain passed and key battles. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQDdooTAkzaGnLM2GU15Du3zt9UeLffX9ZMDxFRMi17K2_XuMEMV-CVac_-PAqZCdJZ10_GYaStJgX6&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Fall 2024 Lehigh University Undergraduate Enrollment
+This chart highlights the diffrent schools that Lehigh students are enrolled in durring the fall 2024 semester. 
+
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)
 
-Total Percent of Professors at Lehigh Univeristy in Each Position
+Total Percent of Professors at Lehigh Univeristy in Each Position Fall 2024
+This chart shows what positions Lehigh Professors have durring the Fall of 2024. 
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true)
 
