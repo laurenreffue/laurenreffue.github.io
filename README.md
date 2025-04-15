@@ -27,7 +27,7 @@ This timeline goes through the events leading up to the Boston Teaparty and afte
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQDdooTAkzaGnLM2GU15Du3zt9UeLffX9ZMDxFRMi17K2_XuMEMV-CVac_-PAqZCdJZ10_GYaStJgX6&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Fall 2024 Lehigh University Undergraduate Enrollment
-This chart highlights the diffrent schools that Lehigh students are enrolled in durring the fall 2024 semester. 
+This chart highlights the diffrent schools that Lehigh students are enrolled in durring the fall 2024 semester. [Data is from Lehigh University Fall 2024 Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)
 
