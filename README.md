@@ -22,7 +22,7 @@ This timeline explains the history of the Lehigh Lafayette Rivalry starting from
 
 ## Boston Teaparty Timeline
 This timeline goes through the events leading up to the Boston Teaparty and after the Boston Teaparty. The events begin in 1773 and end in 1775. The timeline highlights the history leading up to the teaparty, acts that Britain passed and key battles. 
-Source:https://www.nationalarchives.gov.uk/education/resources/boston-tea-party/
+[Data is from UK National Archives](https://www.nationalarchives.gov.uk/education/resources/boston-tea-party/).
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQDdooTAkzaGnLM2GU15Du3zt9UeLffX9ZMDxFRMi17K2_XuMEMV-CVac_-PAqZCdJZ10_GYaStJgX6&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
