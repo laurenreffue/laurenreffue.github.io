@@ -26,26 +26,31 @@ This timeline goes through the events leading up to the Boston Teaparty and afte
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vQDdooTAkzaGnLM2GU15Du3zt9UeLffX9ZMDxFRMi17K2_XuMEMV-CVac_-PAqZCdJZ10_GYaStJgX6&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-Fall 2024 Lehigh University Undergraduate Enrollment
+## Fall 2024 Lehigh University Undergraduate Enrollment
+
 This chart highlights the diffrent schools that Lehigh students are enrolled in durring the fall 2024 semester. [Data is from Lehigh University Fall 2024 Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)
 
-Total Percent of Professors at Lehigh Univeristy in Each Position Fall 2024
+## Total Percent of Professors at Lehigh Univeristy in Each Position Fall 2024
+
 This chart shows what positions Lehigh Professors have durring the Fall of 2024. 
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true)
 
-Percentage of Students in the Arts and Sciences, Business, and Engineering Schools at Lehigh Univeristy
+## Percentage of Students in the Arts and Sciences, Business, and Engineering Schools at Lehigh Univeristy 
+
+This chart shows the percentage of Lehigh students enrolled in each school. The data ranges from 2016 to 2020. It shows trends in amount of students enrolled in each  schools over four years.   
 
 ![Infographic](https://raw.githubusercontent.com/laurenreffue/laurenreffue.github.io/45663b653a5c8d11c935304c71f2d8c1e4882ec1/Percentage_of_students_enrolled_in_three_schools_at_Lehigh_from_2016-2020__Arts_%26_Sciences__Business__Engineering_chartbuilder.svg)
 
-2019 Worlds Top 20 Cycling Cities
+## 2019 Worlds Top 20 Cycling Cities
 
+This interactive map points out the top 20 cities in the world for cycling. Through the map users can see photos and descriptions of each location around the world. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13RLMOx4yfkerYv8MeSuFkxhttqu7lWI&ehbc=2E312F" width="640" height="480"></iframe>
 
-2024 Most Visited Cities in the World
-
+## 2024 Most Visited Cities in the World
+This interactive map allows people to see the mpst visited cities in the world on a map. It provides decsriptions of the cities, and reasoning why they may get a lot of people visiting in 2024. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=106SAEGRlOmHYYm-xCmRU2eweYKOq8B4&ehbc=2E312F" width="640" height="480"></iframe>
 
 
