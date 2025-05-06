@@ -36,7 +36,8 @@ This chart highlights the diffrent schools that Lehigh students are enrolled in 
 
 ## Total Percent of Professors at Lehigh Univeristy in Each Position Fall 2024
 
-This chart shows what positions Lehigh Professors have durring the Fall of 2024. 
+This chart shows what positions Lehigh Professors have durring the Fall of 2024. [Lehigh University Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
+
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true)
 
