@@ -33,7 +33,7 @@ This timeline goes through the events leading up to the Boston Teaparty and afte
 
 This chart shows the distribution of undergraduate enrollment across Lehigh University’s colleges and programs in Fall 2024. The College of Arts and Sciences enrolled the largest share of students, followed by the College of Engineering and Applied Science, and the College of Business. Smaller percentages of students were enrolled in intercollegiate programs and the new College of Health [Data is from Lehigh University Fall 2024 Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
 
-![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true)
+![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true).
 
 ## Total Percent of Professors at Lehigh Univeristy in Each Position Fall 2024
 
