@@ -45,7 +45,7 @@ This chart shows the different types of professor positions at Lehigh University
 
 ## Percentage of Students in the Arts and Sciences, Business, and Engineering Schools at Lehigh Univeristy 
 
-This chart shows the percentage of Lehigh students enrolled in each school. The data ranges from 2016 to 2020. It shows trends in amount of students enrolled in each  schools over four years.   
+This chart shows the percentage of Lehigh students enrolled in each school. The data ranges from 2016 to 2020. It shows trends in amount of students enrolled in each  schools over four years. [The information comes from Lehigh University Common Data Set](https://data.lehigh.edu/common-data-set).  
 
 ![Infographic](https://raw.githubusercontent.com/laurenreffue/laurenreffue.github.io/45663b653a5c8d11c935304c71f2d8c1e4882ec1/Percentage_of_students_enrolled_in_three_schools_at_Lehigh_from_2016-2020__Arts_%26_Sciences__Business__Engineering_chartbuilder.svg)
 
