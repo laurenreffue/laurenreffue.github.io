@@ -55,7 +55,7 @@ This interactive map points out the top 20 cities in the world for cycling. Thro
 
 ## Top 5 Most Visited Cities in the World in 2024
 
-This interactive map allows people to see the mpst visited cities in the world on a map. It provides decsriptions of the cities, and reasoning why they may get a lot of people visiting in 2024. 
+This interactive map allows people to see the mpst visited cities in the world on a map. It provides decsriptions of the cities, and reasoning why they may get a lot of people visiting in 2024. [Global Tourism Forum](https://live.worldtourismforum.net/news/Catch-up-the-latest-news-in-tourism-industry/2024s-Most-Popular-Tourist-Destinations-Bangkok-Tops-the-List).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=106SAEGRlOmHYYm-xCmRU2eweYKOq8B4&ehbc=2E312F" width="640" height="480"></iframe>
 
