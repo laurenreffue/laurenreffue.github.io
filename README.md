@@ -37,7 +37,8 @@ This chart shows the distribution of undergraduate enrollment across Lehigh Univ
 
 ## Total Percent of Professors at Lehigh Univeristy in Each Position Fall 2024
 
-This chart shows the different types of professor positions at Lehigh University in Fall 2024. Most professors were full Professors, followed by Associate and Assistant Professors. Other roles like Teaching Faculty, Adjuncts, and Visiting Professors made up smaller percentages. The chart shows that most professors are in the main teaching and research roles.[Lehigh University Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
+This chart shows the different types of professor positions at Lehigh University in Fall 2024. Most professors were full Professors, followed by Associate and Assistant Professors. Other roles like Teaching Faculty, Adjuncts, and Visiting Professors made up smaller percentages. The chart shows that most professors are in the main teaching and research roles.
+[Lehigh University Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
 
 
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true)
