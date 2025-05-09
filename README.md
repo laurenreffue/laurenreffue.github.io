@@ -9,7 +9,8 @@ Welcome to see my [Linkedin page](https://www.[linkedin].com/in/laurenreffue/).
 
 ![infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Beige%20and%20Cream%20Clean%20Minimal%20Monthly%20Budget%20Pie%20Chart%20(1).png?raw=true).
 
-!The [Data] comes from Lehigh University Fall Profile. The graphic shows where Lehigh students are from. The majority of Lehigh students according to this data is New York and New Jersey. (https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf). it explains where everyone is from that ettends Lehigh.
+![Data is from Lehigh University Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf). 
+The graphic shows where Lehigh students are from. The majority of Lehigh students according to this data is New York and New Jersey. It explains the majority of places people who attend Lehigh are from. 
 
 ## Lehigh University Endowment: 2024 Fiscal Year Target Asset Allocation
 
