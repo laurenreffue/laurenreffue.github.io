@@ -41,7 +41,7 @@ This chart shows the different types of professor positions at Lehigh University
 [Lehigh University Fall Profile](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf).
 
 
-![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true)
+![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true).
 
 ## Percentage of Students in the Arts and Sciences, Business, and Engineering Schools at Lehigh Univeristy 
 
