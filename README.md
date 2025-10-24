@@ -36,8 +36,6 @@ This chart shows the distribution of undergraduate enrollment across Lehigh Univ
 ![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Fall_2024_Lehigh_University_Undergraduate_Enrollment__Persons_of_Undergraduate_Enrollment_chartbuilder%20(2).png?raw=true).
 
 
-![Infographic](https://github.com/laurenreffue/laurenreffue.github.io/blob/main/Total_percent_of_Professors_at_Lehigh_University_in_each_position_Total_number_of_Professors_chartbuilder.png?raw=true).
-
 ## Percentage of Students in the Arts and Sciences, Business, and Engineering Schools at Lehigh Univeristy 
 
 This chart shows the percentage of Lehigh students enrolled in each school. The data ranges from 2016 to 2020. It shows trends in amount of students enrolled in each  schools over four years. [The information comes from Lehigh University Common Data Set](https://data.lehigh.edu/common-data-set).  
